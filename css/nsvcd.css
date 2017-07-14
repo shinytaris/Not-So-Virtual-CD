@@ -1,0 +1,15 @@
+.input-form {
+	margin-bottom: 50px;
+}
+.upload-drop-zone {
+	border: 2px dashed #ccc;
+	border-radius: 5px;
+	padding: 50px;
+}
+.cover-img {
+	width: 150px;
+	height: auto;
+}
+/*.text-muted {
+	color: #ccc;
+}*/
